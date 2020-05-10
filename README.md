@@ -6,7 +6,7 @@ Code:
 3. [Vacation_Itinerary.ipynb](Vacation_Itinerary.ipynb)
 
 Data:
-1. [WeatherPy_challenge.csv](weather_data/data/WeatherPy_challenge.csv)
+1. [WeatherPy_challenge.csv](weather_data/data/WeatherPy_Challenge.csv)
 2. [WeatherPy_vacation.csv](weather_data/data/WeatherPy_vacation.csv)
 
 Images:
